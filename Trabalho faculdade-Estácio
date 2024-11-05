@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doenças Perigosas do Mundo</title>
+    <link rel="stylesheet" href="second.css">
+</head>
+<body>
+    <header>
+        <h1>As 10 Doenças Mais Perigosas do Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="#doencas">Doenças</a></li>
+                <li><a href="#prevencao">Prevenção</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="doencas">
+            <h2>Lista de Doenças</h2>
+            
+                <h3>1. Câncer</h3>
+                
+                    <p>Descrição: O câncer é uma doença caracterizada pelo crescimento descontrolado de células anormais no corpo.</p>
+                    <p>Sintomas: Fadiga, perda de peso inexplicada, dor e mudanças na pele.</p>
+                    <p>Tratamento: Cirurgia, quimioterapia e radioterapia.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/C%C3%A2ncer" target="_blank">Mais informações</a></p>
+                
+            
+            
+                <h3>2. HIV/AIDS</h3>
+                
+                    <p>Descrição: O HIV é um vírus que ataca o sistema imunológico, levando à AIDS se não tratado.</p>
+                    <p>Sintomas: Febre, dor de cabeça e dor de garganta.</p>
+                    <p>Tratamento: Terapia antirretroviral (TAR).</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/HIV" target="_blank">Mais informações</a></p>
+               
+            
+            
+                <h3>3. Malária</h3>
+                
+                    <p>Descrição: A malária é uma doença infecciosa transmitida por mosquitos, causada por parasitas.</p>
+                    <p>Sintomas: Febre alta, calafrios e fadiga.</p>
+                    <p>Tratamento: Medicamentos antimaláricos.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Mal%C3%A1ria" target="_blank">Mais informações</a></p>
+                
+            
+           
+                <h3>4. Tuberculose</h3>
+                    <p>Descrição: A tuberculose é uma infecção bacteriana que afeta principalmente os pulmões.</p>
+                    <p>Sintomas: Tosse persistente, dor no peito e perda de peso.</p>
+                    <p>Tratamento: Antibióticos por um período prolongado.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Tuberculose" target="_blank">Mais informações</a></p>
+                      
+                <h3>5. Diabetes Tipo 1</h3>
+                    
+                    <p>Descrição: O Diabetes Tipo 1 é uma doença autoimune que destrói as células produtoras de insulina no pâncreas.</p>
+                    <p>Sintomas: Sede excessiva, urina frequente e perda de peso.</p>
+                    <p>Tratamento: Insulina e monitoramento da glicose no sangue.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Diabetes_mellitus" target="_blank">Mais informações</a></p>
+            
+            
+                <h3>6.Hepatite B</button></h3>
+                
+                    <p>Descrição: Hepatite B é uma infecção viral que ataca o fígado.</p>
+                    <p>Sintomas: Fadiga, dor abdominal e icterícia.</p>
+                    <p>Tratamento: Antivirais e cuidados médicos.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Hepatite_B" target="_blank">Mais informações</a></p>
+                
+            
+                <h3>7. Ebola</h3>
+                
+                    <p>Descrição: O Ebola é uma doença viral grave com alta taxa de mortalidade.</p>
+                    <p>Sintomas: Febre, dor de cabeça, dor muscular e hemorragias.</p>
+                    <p>Tratamento: Suporte intensivo e tratamento sintomático.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/V%C3%ADrus_Ebola" target="_blank">Mais informações</a></p>
+                
+            
+                <h3>8. Febre Tifóide</h3>
+                
+                    <p>Descrição: Doença infecciosa causada pela bactéria Salmonella typhi.</p>
+                    <p>Sintomas: Febre alta, fraqueza, dor abdominal e constipação.</p>
+                    <p>Tratamento: Antibióticos e hidratação.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Febre_tif%C3%B3ide" target="_blank">Mais informações</a></p>
+               
+           
+                <h3>9. Zika</h3>
+            
+                    <p>Descrição: O vírus Zika é transmitido por mosquitos e pode causar febre e erupções cutâneas.</p>
+                    <p>Sintomas: Febre, dor de cabeça, erupção cutânea e dor nas articulações.</p>
+                    <p>Tratamento: Alívio dos sintomas, sem tratamento específico.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/V%C3%ADrus_Zika" target="_blank">Mais informações</a></p>
+                
+            
+            
+                <h3>10. Gripe</h3>
+                
+                    <p>Descrição: A gripe é uma infecção viral aguda que afeta o sistema respiratório.</p>
+                    <p>Sintomas: Febre, tosse, dor de garganta e dores no corpo.</p>
+                    <p>Tratamento: Descanso, hidratação e medicamentos para alívio dos sintomas.</p>
+                    <p><a href="https://pt.wikipedia.org/wiki/Gripe" target="_blank">Mais informações</a></p>
+                          
+        </section>
+
+        <section id="prevencao">
+            <h2>Prevenção</h2>
+            <p>Prevenir doenças é essencial para a saúde. Algumas dicas incluem:</p>
+            <ul>
+                <li>Vacinação regular.</li>
+                <li>Manter uma boa higiene.</li>
+                <li>Praticar exercícios regularmente.</li>
+                <li>Manter uma dieta equilibrada.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Doenças Perigosas. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
